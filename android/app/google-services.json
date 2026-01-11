@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "638067764846",
+    "project_id": "faithconnect-ec2cc",
+    "storage_bucket": "faithconnect-ec2cc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:638067764846:android:1bdb0e1509b54b945fc07f",
+        "android_client_info": {
+          "package_name": "com.example.faithconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtvLHMy7xg8c2rCWYJhLakOi1mtBY7oVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
